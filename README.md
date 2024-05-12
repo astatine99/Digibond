@@ -1,5 +1,5 @@
 # Digibond
 
-# Have to install pyautogui
+## Have to install pyautogui
 
-pip install pyautogui
+`pip install pyautogui`
