@@ -1,2 +1,5 @@
 # Digibond
-Testing
+
+# Have to install pyautogui
+
+pip install pyautogui
